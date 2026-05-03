@@ -4,7 +4,7 @@ Generated from the clean `Late Diagnosed 1010 New Beginnings` profile on 2026-05
 
 Target: Minecraft 1.21.1 + Fabric
 
-Total mods: 68
+Total mods: 67
 
 ## Installed Jars
 
@@ -52,7 +52,6 @@ Total mods: 68
 - modmenu-11.0.4.jar
 - MouseTweaks-fabric-mc1.21-2.26.jar
 - NarrusYeetus-1.2.0.jar
-- new-sky-1010-start-0.1.0.jar
 - nexuslib-fabric-1.21.1-1.1.4.jar
 - nyfsspiders-fabric-1.21.1-3.0.1.jar
 - placeholder-api-2.4.2+1.21.jar
