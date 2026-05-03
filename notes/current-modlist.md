@@ -4,7 +4,7 @@ Generated from the clean `Late Diagnosed 1010 New Beginnings` profile on 2026-05
 
 Target: Minecraft 1.21.1 + Fabric
 
-Total mods: 61
+Total mods: 68
 
 ## Installed Jars
 
@@ -29,6 +29,7 @@ Total mods: 61
 - entityculling-fabric-1.10.1-mc1.21.1.jar
 - fabric-api-0.116.11+1.21.1.jar
 - fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar
+- fabric-permissions-api-0.3.1.jar
 - FallingTree-1.21.1-1.21.1.11.jar
 - FarmersDelight-1.21.1-3.3.2+refabricated.jar
 - farmingforblockheads-fabric-1.21.1-21.1.13.jar
@@ -48,10 +49,10 @@ Total mods: 61
 - mcpitanlib-3.6.8-1.21.1-fabric.jar
 - midnightlib-fabric-1.9.3+1.21.1.jar
 - mob-ai-tweaks-1.11.2-1.21.1.jar
-- mobcollisionoff-3.0.jar
 - modmenu-11.0.4.jar
 - MouseTweaks-fabric-mc1.21-2.26.jar
 - NarrusYeetus-1.2.0.jar
+- new-sky-1010-start-0.1.0.jar
 - nexuslib-fabric-1.21.1-1.1.4.jar
 - nyfsspiders-fabric-1.21.1-3.0.1.jar
 - placeholder-api-2.4.2+1.21.jar
@@ -62,10 +63,16 @@ Total mods: 61
 - reinforced-barrels-2.6.1+1.21.1.jar
 - reinforced-chests-3.1.1+1.21.1.jar
 - Searchables-fabric-1.21.1-1.0.2.jar
+- SkiesAnnouncements-fabric-1.21.1-1.1.0.jar
+- SkiesCrates-fabric-1.21.1-1.0.5.jar
+- SkiesJoinMessages-fabric-1.21.1-1.1.0-BETA1.jar
+- skyblock-biome-islands-1.0.3.jar
 - sky-void-additions-1.2.7.jar
+- sky-void-terralith-1.0.2.jar
 - sodium-fabric-0.6.13+mc1.21.1.jar
 - standard-skyblock-2.0.4.jar
 - TechReborn-5.11.19.jar
+- Terralith_1.21.x_v2.5.8.jar
 - timelesslib-1.0.23-fabric-1.20.5-1.21.11.jar
 - yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar
 - YouDied-fabric-1.21-4.0.0.19.jar
