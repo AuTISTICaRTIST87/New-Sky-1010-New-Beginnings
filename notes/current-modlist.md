@@ -1,0 +1,106 @@
+# Current Modlist
+
+Generated from the local `mods/` folder on 2026-05-03.
+
+Total mods: 98
+
+## Installed Jars
+
+- AdvancedReborn-26.1.1-1.4.0.jar
+- alloyed-3.0.9+26.1.2-fabric.jar
+- AmbientSounds_FABRIC_v6.3.5_mc26.1.jar
+- appleskin-fabric-mc26.1-3.0.9.jar
+- balm-fabric-26.1-26.1.0.6.jar
+- beautify-fabric-2.0.0+26.1.jar
+- better-farming-with-hoes-1.0.1a.jar
+- better-farming-with-hoes-farmers-delight-compatibility-1.0.0a.jar
+- betterblocktooltip-1.0.2.jar
+- BetterCommandBlockUI-0.5.3-26.1.jar
+- blastingclay-26.1.2-fabric-1.2.jar
+- blur-fabric-6.2.0+26.1.jar
+- chat_heads-1.2.2-fabric-26.1.jar
+- chatanimation-fabric-26.1-1.1.3.jar
+- classicpipes-fabric-26.1-1.1.3.jar
+- cloth-config-26.1.154.jar
+- collective-26.1.0-8.16.jar
+- continuity-3.0.1-beta.2+26.1.jar
+- controlify-3.0.0+26.1-fabric.jar
+- Controlling-fabric-26.1-26.1.0.1.jar
+- craftingtweaks-fabric-26.1-26.1.0.1.jar
+- CreativeCore_FABRIC_v2.14.13_mc26.1.jar
+- cristellib-fabric-26.1-3.1.3.jar
+- custom-crops-1.1.1+26.1.jar
+- deimos-26.1.2-fabric-2.6.jar
+- DistantHorizons-3.0.2-b-26.1.2-fabric-neoforge.jar
+- dynamic-fps-3.11.6+minecraft-26.1.0-fabric.jar
+- easy_mob_farm-fabric-26.1-10.6.0.jar
+- eclipsestweakeroo-0.7.3-26.1.1.jar
+- EnchantmentDescriptions-fabric-MC26.1.2-26.1.2.1.jar
+- energizedpower-26.1.x-2.15.20-fabric.jar
+- entityculling-fabric-1.10.1-mc26.1.jar
+- fabric-api-0.148.0+26.1.2.jar
+- fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar
+- FallingTree-26.1-25.jar
+- farm-3x3-2.3.1.jar
+- FarmersDelight-26.1-3.6.4+refabricated.jar
+- farmingforblockheads-fabric-26.1-26.1.0.1.jar
+- ferritecore-9.0.0-fabric.jar
+- ForgeConfigAPIPort-v26.1.4-mc26.1.x-Fabric.jar
+- fzzy_config-0.7.6+26.1.jar
+- grassseeds-26.1.0-3.4.jar
+- GrowableOres-3.7.2-26.1.2-Fabric.jar
+- hardcorerevival-fabric-26.1-26.1.0.1.jar
+- InventoryCleaner-1.1.4-26.1.jar
+- iris-fabric-1.10.9+mc26.1.1.jar
+- Jade-mc26.1-Fabric-26.0.8.jar
+- jei-26.1.2-fabric-29.5.0.28.jar
+- journeymap-fabric-26.1-6.0.0-beta.67.jar
+- just-hammers-fabric-26.1.0.1.jar
+- ketket-graves-26.1.jar
+- krypton-0.3.0.jar
+- lambdynamiclights-4.10.2+26.1.2.jar
+- lithium-fabric-0.24.2+mc26.1.2.jar
+- lootr-fabric-26.1-1.21.35.106.jar
+- malilib-fabric-26.1.2-0.28.3.jar
+- mcpitanlib-3.6.8-26.1-fabric.jar
+- mcw-fences-1.2.1-mc26.1fabric.jar
+- mcw-windows-2.4.2-mc26.1fabric.jar
+- modifyplayerdata-fabric-0.4.1-26.1.1.jar
+- modmenu-18.0.0-alpha.8.jar
+- more_sweet_treats-1.0.0-for-fabric-26.1.jar
+- moredelight-26.05.02-26.1-fabric.jar
+- MouseTweaks-fabric-mc26.1-2.31.jar
+- mru-1.0.28+lts+26.1-fabric.jar
+- nanite-library-fabric-26.1.2.6.jar
+- No trampling on farmland-26.1-Fabric-1.0.jar
+- NoChatReports-FABRIC-26.1-v2.19.0.jar
+- packetfixer-fabric-3.3.5-26.1.2.jar
+- PickUpNotifier-v26.1.1-mc26.1.x-Fabric.jar
+- placeholder-api-3.0.0+26.1.jar
+- plants-and-zombies-1.3.jar
+- playerplates-fabric-26.1.2.2.jar
+- polyfactory-0.11.0+26.1.jar
+- polymer-bundled-0.16.4+26.1.2.jar
+- potted-farms-1.1.2.jar
+- PresenceFootsteps-1.13.0+26.1.jar
+- PrickleMC-fabric-MC26.1.2-26.1.2.2.jar
+- PuzzlesLib-v26.1.4-mc26.1.x-Fabric.jar
+- randombonemealflowers-26.1.0-4.7.jar
+- Searchables-fabric-26.1-1.0.4.jar
+- sky-void-additions-1.5.2.jar
+- skyblock-biome-islands-1.0.8.jar
+- sodium-fabric-0.8.9+mc26.1.1.jar
+- sounds-2.4.25+lts+26.1.2-fabric.jar
+- stackedblocks-26.03.26+26.1-fabric.jar
+- stackedblocksfarmersdelight-26.03.29+26.1-fabric.jar
+- standard-skyblock-2.1.5.jar
+- starterkit-26.1.0-7.6.jar
+- t_and_t-fabric-neoforge-1.13.11.jar
+- TechReborn-6.0.4.jar
+- thecopperrail-0.9.10.jar
+- UsefulFood_Reborn-1.5.0-26.1-Fabric.jar
+- uuidcommand-fabric-0.2.0-26.1.1.jar
+- VisualWorkbench-v26.1.0-mc26.1.x-Fabric.jar
+- wilderflowers-1.1.1+26.1.2-fabric.jar
+- woodenhopper-fabric-26.1-4.0.0.0.jar
+- yet_another_config_lib_v3-3.9.3+26.1-fabric.jar
