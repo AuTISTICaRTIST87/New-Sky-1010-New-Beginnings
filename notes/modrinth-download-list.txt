@@ -1,0 +1,58 @@
+# One Modrinth project slug, search term, or Modrinth mod URL per line.
+# The downloader defaults to Minecraft 1.21.1 + Fabric.
+#
+# Run from this profile folder:
+# powershell -ExecutionPolicy Bypass -File .\scripts\download-modrinth-mods.ps1
+#
+# To only test what would download:
+# powershell -ExecutionPolicy Bypass -File .\scripts\download-modrinth-mods.ps1 -DryRun
+
+# Foundation / loader helpers
+fabric-api
+fabric-language-kotlin
+cloth-config
+modmenu
+yacl
+forge-config-api-port
+architectury-api
+
+# Performance / rendering / UI
+sodium
+iris
+lithium
+ferrite-core
+entityculling
+dynamic-fps
+continuity
+appleskin
+jade
+jei
+mouse-tweaks
+controlling
+searchables
+
+# Skyblock support
+standard-skyblock
+sky-void-additions
+
+# Tech / automation candidates
+techreborn
+advancedreborn
+energized-power
+polyfactory
+classic-pipes
+industrial-revolution-mahiro76
+reborncore
+
+# Food / nature transition candidates
+farmers-delight-refabricated
+farming-for-blockheads
+fallingtree
+croptopia-refabricated
+
+# Comfort / atmosphere
+ambientsounds
+presence-footsteps
+blur-plus
+chat-heads
+journeymap
