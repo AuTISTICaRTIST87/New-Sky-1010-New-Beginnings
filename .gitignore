@@ -1,0 +1,29 @@
+# Modrinth / Minecraft runtime state
+.cache/
+.fabric/
+crash-reports/
+downloads/
+logs/
+saves/
+screenshots/
+shaderpacks/
+realms_persistence.json
+usernamecache.json
+usercache.json
+options.txt
+
+# Large downloaded artifacts
+mods/
+*.jar
+
+# Generated exports and backups
+backups/
+exports/
+*.mrpack
+*.zip
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
